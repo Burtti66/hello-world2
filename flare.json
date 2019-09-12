@@ -5,12 +5,12 @@
    "name": "Strategia",
    "children": [
     {
-     "name": "Brandin ydin",
+     "name": "Brändin ydin",
      "children": [
-      {"name": "Tuote1", "size": 1},
-      {"name": "Tuote2", "size": 1},
-      {"name": "Tuote3", "size": 1},
-      {"name": "Tuote4", "size": 1}
+      {"name": "Tuote1", "size": 100},
+      {"name": "Tuote2", "size": 20},
+      {"name": "Tuote3", "size": 500},
+      {"name": "Tuote4", "size": 60}
      ]
     },
     {
