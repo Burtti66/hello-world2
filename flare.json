@@ -2,7 +2,7 @@
  "name": "PURPOSE",
  "children": [
   {
-   "name": "analytics",
+   "name": "kakka",
    "children": [
     {
      "name": "cluster",
