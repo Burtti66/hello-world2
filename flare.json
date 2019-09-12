@@ -5,7 +5,7 @@
    "name": "Strategia",
    "children": [
     {
-     "name": "Brändin ydin",
+     "name": "Brandin ydin",
      "children": [
       {"name": "Tuote1", "size": 1},
       {"name": "Tuote2", "size": 1},
